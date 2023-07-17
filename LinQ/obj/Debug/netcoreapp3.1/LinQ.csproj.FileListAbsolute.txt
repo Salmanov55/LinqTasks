@@ -1,0 +1,14 @@
+C:\Users\Aydan\Desktop\LinQ\LinQ\bin\Debug\netcoreapp3.1\LinQ.exe
+C:\Users\Aydan\Desktop\LinQ\LinQ\bin\Debug\netcoreapp3.1\LinQ.deps.json
+C:\Users\Aydan\Desktop\LinQ\LinQ\bin\Debug\netcoreapp3.1\LinQ.runtimeconfig.json
+C:\Users\Aydan\Desktop\LinQ\LinQ\bin\Debug\netcoreapp3.1\LinQ.runtimeconfig.dev.json
+C:\Users\Aydan\Desktop\LinQ\LinQ\bin\Debug\netcoreapp3.1\LinQ.dll
+C:\Users\Aydan\Desktop\LinQ\LinQ\bin\Debug\netcoreapp3.1\LinQ.pdb
+C:\Users\Aydan\Desktop\LinQ\LinQ\obj\Debug\netcoreapp3.1\LinQ.csproj.AssemblyReference.cache
+C:\Users\Aydan\Desktop\LinQ\LinQ\obj\Debug\netcoreapp3.1\LinQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aydan\Desktop\LinQ\LinQ\obj\Debug\netcoreapp3.1\LinQ.AssemblyInfoInputs.cache
+C:\Users\Aydan\Desktop\LinQ\LinQ\obj\Debug\netcoreapp3.1\LinQ.AssemblyInfo.cs
+C:\Users\Aydan\Desktop\LinQ\LinQ\obj\Debug\netcoreapp3.1\LinQ.csproj.CoreCompileInputs.cache
+C:\Users\Aydan\Desktop\LinQ\LinQ\obj\Debug\netcoreapp3.1\LinQ.dll
+C:\Users\Aydan\Desktop\LinQ\LinQ\obj\Debug\netcoreapp3.1\LinQ.pdb
+C:\Users\Aydan\Desktop\LinQ\LinQ\obj\Debug\netcoreapp3.1\LinQ.genruntimeconfig.cache
